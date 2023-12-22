@@ -19,5 +19,4 @@ def guessing_game():
         else:
             print(f"Congratulations! You guessed it right in {attempts} attempts.")
             break
-
 guessing_game()
